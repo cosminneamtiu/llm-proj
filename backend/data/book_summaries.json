@@ -1,0 +1,62 @@
+[
+  {
+    "title": "1984",
+    "short_summary": "A dystopian tale of surveillance and propaganda where Winston Smith seeks truth and freedom under Big Brother.",
+    "themes": ["totalitarianism", "surveillance", "truth", "freedom", "propaganda"]
+  },
+  {
+    "title": "The Hobbit",
+    "short_summary": "Bilbo Baggins is pulled from comfort into a perilous quest to reclaim a dwarven treasure from Smaug.",
+    "themes": ["friendship", "adventure", "courage", "fantasy", "self-discovery"]
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "short_summary": "An orphan discovers he is a wizard and enters a hidden world of magic, friendship, and danger.",
+    "themes": ["friendship", "magic", "identity", "courage", "good vs evil"]
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "short_summary": "A German soldier narrates the physical hardship and emotional erosion of World War I.",
+    "themes": ["war", "trauma", "disillusionment", "friendship", "loss"]
+  },
+  {
+    "title": "The Book Thief",
+    "short_summary": "A young girl in Nazi Germany steals books and learns the power of words; Death narrates.",
+    "themes": ["war", "words", "resilience", "friendship", "found family"]
+  },
+  {
+    "title": "Dune",
+    "short_summary": "On desert planet Arrakis, noble houses vie for control of the spice that shapes the galaxy.",
+    "themes": ["politics", "ecology", "destiny", "power", "leadership"]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "short_summary": "In the American South, a girl witnesses her father's stand for justice in a racist town.",
+    "themes": ["justice", "racism", "empathy", "childhood", "moral courage"]
+  },
+  {
+    "title": "The Name of the Wind",
+    "short_summary": "A legendary arcanist recounts his youth—music, magic, and mistakes—on the road to myth.",
+    "themes": ["magic", "music", "identity", "obsession", "coming of age"]
+  },
+  {
+    "title": "The Alchemist",
+    "short_summary": "A shepherd follows a recurring dream across deserts in search of treasure.",
+    "themes": ["destiny", "self-discovery", "faith", "journey", "dreams"]
+  },
+  {
+    "title": "The Little Prince",
+    "short_summary": "A pilot crashes in the Sahara and meets a mysterious child from another world.",
+    "themes": ["innocence", "love", "imagination", "loss", "wisdom"]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "short_summary": "Holden Caulfield wanders New York after being expelled, wrestling with grief and disillusion.",
+    "themes": ["identity", "alienation", "adolescence", "grief", "authenticity"]
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "short_summary": "A quiet hobbit inherits a ring of immense power that could doom the world.",
+    "themes": ["friendship", "sacrifice", "good vs evil", "courage", "temptation"]
+  }
+]
